@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579066120596",
+    "project_id": "chatapp-7e6df",
+    "storage_bucket": "chatapp-7e6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579066120596:android:2e59a54f334a6716252781",
+        "android_client_info": {
+          "package_name": "com.udemy.chatapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxU8c4qJibLOAC-skwWkVi7bLb6rzDcUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
